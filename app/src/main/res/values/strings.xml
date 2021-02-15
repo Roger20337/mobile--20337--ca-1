@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AdditionCalculator</string>
+    <string name="FirstNumber">type your first number here</string>
+    <string name="SecondNumberrrrrrrrrrrr" />
+    <string name="SecondNumber">type your second number here</string>
+    <string name="Result">The sum of these two values is:</string>
+</resources>
